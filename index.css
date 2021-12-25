@@ -1,4 +1,10 @@
 h1 {
     color: green;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 124px;
+}
+
+body {
+    background-color: red;
 }

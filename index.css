@@ -1,15 +1,6 @@
-h1 {
-    color: green;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    font-size: 124px;
-}
-
-body {
-    background-color: red;
-}
-
-img {
-    width: 200px;
-    height: 200px;
+.main-photo {
+    width:300px;
+    height:300px;
+    object-fit:cover;
+    border-radius:50%;
 }
